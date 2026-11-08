@@ -1,0 +1,98 @@
+{
+  "nav_about": [
+    "About us",
+    "எங்களைப் பற்றி"
+  ],
+  "nav_programs": [
+    "Our programs",
+    "எங்கள் திட்டங்கள்"
+  ],
+  "nav_volunteer": [
+    "Get involved",
+    "இணைந்து செயல்படுங்கள்"
+  ],
+  "nav_contact": [
+    "Contact",
+    "தொடர்பு"
+  ],
+  "nav_support": [
+    "Support our mission",
+    "எங்கள் பணிக்கு ஆதரவு"
+  ],
+  "nav_gallery": [
+    "Gallery",
+    "புகைப்படத் தொகுப்பு"
+  ],
+  "nav_events": [
+    "Events",
+    "நிகழ்வுகள்"
+  ],
+  "hero_title": [
+    "Small acts of kindness. Lasting change.",
+    "சிறிய அன்புச் செயல்கள். நீடித்த மாற்றம்."
+  ],
+  "hero_desc": [
+    "Working toward a world where every child is nourished, every mind has a chance to learn, and every family feels supported.",
+    "ஒவ்வொரு குழந்தைக்கும் ஊட்டச்சத்து, கல்வி வாய்ப்பு மற்றும் ஒவ்வொரு குடும்பத்திற்கும் ஆதரவு கிடைக்கும் சமூகத்தை உருவாக்க முயல்கிறோம்."
+  ],
+  "gallery_title": [
+    "Our community gallery",
+    "எங்கள் சமூகப் புகைப்படத் தொகுப்பு"
+  ],
+  "gallery_intro": [
+    "Real activity photos will appear here after they are shared and approved. We do not present stock images as evidence of our work.",
+    "உண்மையான நிகழ்வு புகைப்படங்கள் அனுமதி பெற்ற பிறகு இங்கே வெளியிடப்படும். மாதிரிப் படங்களை எங்கள் செயல்பாடுகளின் ஆதாரமாகக் காட்டமாட்டோம்."
+  ],
+  "events_title": [
+    "News & upcoming events",
+    "செய்திகள் மற்றும் வரவிருக்கும் நிகழ்வுகள்"
+  ],
+  "events_intro": [
+    "No public events have been announced yet. Contact us to learn about volunteering and future activities.",
+    "பொது நிகழ்வுகள் இன்னும் அறிவிக்கப்படவில்லை. தன்னார்வப் பணிகள் மற்றும் எதிர்கால நிகழ்வுகள் குறித்து எங்களைத் தொடர்பு கொள்ளுங்கள்."
+  ],
+  "gallery_empty": [
+    "Photos coming soon",
+    "புகைப்படங்கள் விரைவில்"
+  ],
+  "events_empty": [
+    "Events will be posted here",
+    "நிகழ்வுகள் இங்கே அறிவிக்கப்படும்"
+  ],
+  "email_us": [
+    "Email the foundation",
+    "அறக்கட்டளைக்கு மின்னஞ்சல்"
+  ],
+  "wa_pending": [
+    "WhatsApp will be enabled once an official number is confirmed.",
+    "அதிகாரப்பூர்வ எண் உறுதிசெய்யப்பட்டதும் வாட்ஸ்அப் வசதி சேர்க்கப்படும்."
+  ],
+  "impact_title": [
+    "Our impact journey starts here",
+    "எங்கள் சேவைப் பயணம் இங்கிருந்து தொடங்குகிறது"
+  ],
+  "impact_desc": [
+    "We publish verified results as our initiatives progress.",
+    "உறுதிசெய்யப்பட்ட செயல்பாட்டு முடிவுகளை மட்டுமே வெளியிடுவோம்."
+  ],
+  "contact_title": [
+    "Let's make a difference together.",
+    "ஒன்றிணைந்து மாற்றத்தை உருவாக்குவோம்."
+  ],
+  "home_link": [
+    "Home",
+    "முகப்பு"
+  ],
+  "photo_consent": [
+    "Please send only photos you have permission to publish.",
+    "வெளியிட அனுமதி பெற்ற புகைப்படங்களை மட்டும் அனுப்புங்கள்."
+  ],
+  "event_no": [
+    "No scheduled events yet",
+    "திட்டமிடப்பட்ட நிகழ்வுகள் இன்னும் இல்லை"
+  ],
+  "page_gallery": [
+    "Gallery & Events",
+    "புகைப்படங்கள் மற்றும் நிகழ்வுகள்"
+  ]
+}
