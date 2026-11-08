@@ -1,0 +1,11 @@
+{
+  "events": [
+    {
+      "title": "Example community gathering \u2014 replace before publishing",
+      "date": "2027-01-15",
+      "location": "Cuddalore, Tamil Nadu",
+      "description": "Example only. Publish after details are confirmed.",
+      "published": false
+    }
+  ]
+}
