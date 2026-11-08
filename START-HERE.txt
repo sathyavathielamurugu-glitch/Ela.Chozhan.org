@@ -1,9 +1,1 @@
-CHOZHAN FOUNDATION WEBSITE
-
-1. Extract the ZIP file.
-2. Open index.html in Chrome or another browser.
-3. Keep all HTML, CSS, and logo files together in the same folder.
-4. homepage-preview.png is a previously generated preview (not a new live screenshot).
-5. To deploy, upload the extracted site files to Cloudflare Pages.
-
-Important: Donation and volunteer/contact forms are presentation-only until a backend and verified payment provider are connected.
+Upload the files from this folder into your GitHub repository root (not the enclosing folder). Replace existing files. Visit https://chozhan.org after GitHub Pages deployment. Contact forms open email drafts; visitors must send them.
