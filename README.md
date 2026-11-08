@@ -1,14 +1,18 @@
-# Chozhan Foundation — GitHub Pages update
+# Chozhan Foundation — upgraded GitHub Pages website
 
-Updated official address: 39, Ramanathan Nagar, Koothapakkam, Cuddalore – 607002, Tamil Nadu, India.
-Official email: chozhan.org@gmail.com.
-Impact metrics should remain at zero until verified results are available. No unverified impact claims should be published.
+Upload the **contents** of this folder to the root of `sathyavathielamurugu-glitch/Ela.Chozhan.org` on GitHub. Preserve the logo filenames and `assets/` directory. GitHub Pages serves `index.html`.
 
-## Upload
-Open https://github.com/sathyavathielamurugu-glitch/Ela.Chozhan.org and upload the contents of this folder to the repository root on main, replacing existing files with matching names. Keep index.html at the root. GitHub Pages will redeploy automatically if already configured.
+## Improvements
+- Consistent navigation and responsive menus across all pages
+- Verified impact counters remain 0
+- Official Cuddalore contact details and email
+- Privacy information, robots.txt, sitemap.xml, canonical and social metadata
+- Accessibility enhancements including skip links, keyboard focus and image alt text
+- Contact and volunteer forms still prepare email drafts; they do not store submissions
+- Donation page is inquiry-only; no payment processing enabled
 
-## Contact forms
-The homepage contact and volunteer forms now open a pre-addressed email draft (mailto:). They do NOT send automatically, store submissions, or provide delivery confirmation. A visitor must send the email from their own mail application.
-
-## Donations
-No payments are accepted on this website. Connect a verified donation service and publish applicable disclosures before accepting payments.
+## Before publishing
+- Review Privacy page and all program descriptions
+- Verify the `chozhan.org` domain and GitHub Pages settings
+- Replace sample Unsplash photography with approved images when available
+- Check navigation, email links and layout on a mobile device
